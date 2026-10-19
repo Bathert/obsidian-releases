@@ -64153,5 +64153,12 @@
     "author": "Ash Otis",
     "description": "Focus sessions for wandering minds: one task, a timer with breaks, a place to park stray thoughts, a calm screen that fades everything but your note, and what your music players or Spotify are playing. - This plugin has not been manually reviewed by Obsidian staff.",
     "repo": "ashotis/lantern-focus"
+  },
+  {
+    "id": "obsidian-speed-reader",
+    "name": "Speed Reader (RSVP)",
+    "author": "Bathert",
+    "description": "Speed read your notes using Spritz-style RSVP with Optimal Recognition Point (ORP), smart pacing, chunking, and text-to-speech.",
+    "repo": "Bathert/obsidian-speed-reader"
   }
 ]
